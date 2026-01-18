@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name="topsis-saanvi-102483080",
-    version="1.0.0",   # production version
+    version="2.0.0",   
     author="Saanvi Wadhwa",
     author_email="your_email@gmail.com",
     description="TOPSIS implementation for multi-criteria decision making",
