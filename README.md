@@ -56,5 +56,11 @@ Python
 Pandas
 NumPy
 
+## Part-III: Web Service
+A Flask-based web service was developed where users can upload the input file, specify weights, impacts, and an email ID.  
+Inputs are validated, TOPSIS is executed on the server, and the result file is generated.  
+Email functionality is implemented using SMTP; however, live delivery may be restricted due to Gmail security policies.
+
+
 ## Author
 Saanvi Wadhwa
