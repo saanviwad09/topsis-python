@@ -36,7 +36,7 @@ bash
 python topsis.py <InputFile.csv> <Weights> <Impacts> <OutputFile.csv>
 
 ## Example
-python topsis.py output.csv "1,1,1,2,1" "+,+,-,+,+" topsis_results.csv
+python topsis.py data.csv "1,1,1,2,1" "+,+,-,+,+" topsis_results.csv
 
 ## Output
 The output CSV file contains two additional columns:
